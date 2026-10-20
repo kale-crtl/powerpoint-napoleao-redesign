@@ -6,7 +6,7 @@ Projeto de design visual desenvolvido no **Microsoft PowerPoint**, focado na cri
 
 ## 🖼️ Resultado Visual
 
-![Redesign do Slide de Napoleão](slide-napoleao-redesign.jpg)
+![Redesign do Slide de Napoleão](Slide1.JPG)
 
 ---
 
